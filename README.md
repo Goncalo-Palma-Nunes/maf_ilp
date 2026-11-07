@@ -1,5 +1,9 @@
 # maf_ilp
-An Integer Linear Program model for the Maximum Agreement Forest problem between two rooted binary phylogenetic X-trees. This implementation is based on the model by [1].
+A Python implementation of an Integer Linear Program model for the Maximum Agreement Forest problem between two rooted binary phylogenetic X-trees. This implementation is based on the model by [1].
+
+Requirements:
+
+This program requires the [docplex](https://pypi.org/project/docplex/) python library.
 
 References:
 
